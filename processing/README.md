@@ -43,8 +43,8 @@ The ATMO-Viz Project is inspired newsmedia data visualizations and driven by the
 
 ## Demo
 
-A demo of the ATMO-Viz Project can be found [here](https://brooks-code.github.io/silver-broccoli/test.html).
-The main repo is available [here](https://github.com/brooks-code/silver-broccoli).
+A demo of the ATMO-Viz Project can be found [here](https://hyperphantasia.github.io/silver-broccoli/test.html).
+The main repo is available [here](https://github.com/hyperphantasia/silver-broccoli).
 
 ## Features
 
@@ -66,7 +66,7 @@ The main repo is available [here](https://github.com/brooks-code/silver-broccoli
 
 To install the ATMO-Viz Project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/brooks-code/silver-broccoli.git`
+1. Clone the repository: `git clone https://github.com/hyperphantasia/silver-broccoli.git`
 2. Navigate to the processing folder: `cd processing`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the data processing script: `python data_processing.py`

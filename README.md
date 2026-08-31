@@ -41,7 +41,7 @@ The application is inspired by interactive visualizations seen in various invest
 
 ## Demo
 
-The live demo is available [here](https://brooks-code.github.io/silver-broccoli/test.html)!
+The live demo is available [here](https://hyperphantasia.github.io/silver-broccoli/test.html)!
 
 ## Features
 
@@ -273,7 +273,7 @@ Contributions are **welcome**. You can follow the usual steps:
 
 ## License
 
-The source code is provided under a Creative Commons CC0 license. See the [LICENSE]([link](https://brooks-code.github.io/silver-broccoli/LICENSE)) file for details.
+The source code is provided under a Creative Commons CC0 license. See the [LICENSE]([link](https://hyperphantasia.github.io/silver-broccoli/LICENSE)) file for details.
 
 The source dataset is provided for **a reproductibility purpose only**. That dataset remains the property of [ATMO Grand-Est](https://www.atmo-grandest.eu/), if you plan on using it for other purposes, please check with them.
 
